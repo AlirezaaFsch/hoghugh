@@ -4,6 +4,7 @@ using System;
 using System.Xml.Serialization;
 using Hoghugh.Models;
 using System.Security.Cryptography.X509Certificates;
+using Hoghugh.DataBase;
 
 namespace Hoghugh
 {
@@ -28,6 +29,7 @@ namespace Hoghugh
                             if (choice_2.Equals(1))
                             {
                                 AdminsServices.ListAll();
+                                //DataBaceServices.ListConvertorToFile();
                             }
                             else if (choice_2.Equals(2))
                             {

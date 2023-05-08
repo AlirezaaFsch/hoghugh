@@ -61,10 +61,7 @@ namespace Hoghugh.Services
 
 
                 Console.WriteLine("New Employee With Id number:" + emp.EmployeeIdNumber + "Added"); 
-            }
-            
-
-
+            }     
 
 
         }
@@ -73,7 +70,7 @@ namespace Hoghugh.Services
 
         static public void ListAll()
         {
-            Console.WriteLine("-----------List Of Employees------------");
+            Console.WriteLine("------------List Of Employees-------------");
             List<Employee> employeeList = MyAdmin.EmployeeList;
             foreach (Employee employee in employeeList)
             {
@@ -102,6 +99,7 @@ namespace Hoghugh.Services
             else 
             {
                 Console.WriteLine("Employee With " + emp.EmployeeIdNumber + "Doesnt Exist");
+                DeleteEmployee();
             }
             
             
@@ -155,6 +153,7 @@ namespace Hoghugh.Services
             else 
             {
                 Console.WriteLine("Employee With " + emp_id + " ID Doesnt exist");
+                UpdateEmployee();
             }
             //Console.WriteLine("enter your choice");
             //Console.ReadLine();

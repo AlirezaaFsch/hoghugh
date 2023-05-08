@@ -20,7 +20,7 @@ namespace Hoghugh.DataBase
 
         static public void ListConvertorToFile()
         {
-            System.IO.File.WriteAllLines("SavedLists.txt", (IEnumerable<string>)MyAdmin.EmployeeList );
+            System.IO.File.WriteAllLines("SavedList.txt", (IEnumerable<string>)MyAdmin.EmployeeList );
         }
     }
 }
