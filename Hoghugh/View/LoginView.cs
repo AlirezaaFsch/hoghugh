@@ -9,6 +9,7 @@ namespace Hoghugh.View
 {
     class LoginView : MainView
     {
+        
         private User _obj;
         public object getInput()
         {
@@ -31,12 +32,21 @@ namespace Hoghugh.View
 
         public object onError()
         {
-            throw new NotImplementedException();
+            if (_obj.username != "Admin" || _obj.password != "Admin")
+            {
+                Console.WriteLine("username or password is not correct");
+            }
+            return null;
+            
         }
 
         public object onOk()
         {
-            throw new NotImplementedException();
+            if (_obj.username == "Admin" && _obj.password == "Admin")
+            {
+                Console.WriteLine("welcome");
+            }
+            return null;
         }
 
         public object onSubmit()
