@@ -9,6 +9,6 @@ namespace Hoghugh
 {
     class SharedPrefrences
     {
-        static User loginUser;
+        private static User loginUser;
     }
 }
