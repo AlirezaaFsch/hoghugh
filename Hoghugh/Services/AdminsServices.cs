@@ -5,6 +5,7 @@ using System.Linq;
 using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace Hoghugh.Services
 {
@@ -16,6 +17,7 @@ namespace Hoghugh.Services
         public static List<Employee> EmployeeList = new List<Employee>();
 
         public static Employee emp = new Employee();
+
 
 
 
@@ -137,18 +139,18 @@ namespace Hoghugh.Services
                 Console.Write("Enter New UserName : ");
                 emp.UserName = Console.ReadLine();
                 Console.Write("Enter New PassWord : ");
-                emp.PassWord = Console.ReadLine();  
+                emp.PassWord = Console.ReadLine();
 
 
 
-                MyAdmin.EmployeeList.Where(e => e.EmployeeIdNumber == emp_id).FirstOrDefault().EmployeeIdNumber = emp.EmployeeIdNumber;
-                MyAdmin.EmployeeList.Where(e => e.EmployeeIdNumber == emp_id).FirstOrDefault().Name = emp.Name;
-                MyAdmin.EmployeeList.Where(e => e.EmployeeIdNumber == emp_id).FirstOrDefault().Age = emp.Age;
-                MyAdmin.EmployeeList.Where(e => e.EmployeeIdNumber == emp_id).FirstOrDefault().LastName = emp.LastName;
-                MyAdmin.EmployeeList.Where(e => e.EmployeeIdNumber == emp_id).FirstOrDefault().TeamName = emp.TeamName;
-                MyAdmin.EmployeeList.Where(e => e.EmployeeIdNumber == emp_id).FirstOrDefault().BasicSalary = emp.BasicSalary;
-                MyAdmin.EmployeeList.Where(e => e.EmployeeIdNumber == emp_id).FirstOrDefault().UserName = emp.UserName;
-                MyAdmin.EmployeeList.Where(e => e.EmployeeIdNumber == emp_id).FirstOrDefault().PassWord = emp.PassWord;
+                var a = MyAdmin.EmployeeList.Where(e => e.EmployeeIdNumber == emp_id).FirstOrDefault();//.EmployeeIdNumber = emp.EmployeeIdNumber;
+                a.Name = emp.Name;
+                a.Age = emp.Age;
+                a.LastName = emp.LastName;
+                a.TeamName = emp.TeamName;
+                a.BasicSalary = emp.BasicSalary;
+                a.UserName = emp.UserName;
+                a.PassWord = emp.PassWord;
             }
             else 
             {

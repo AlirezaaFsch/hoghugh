@@ -9,9 +9,8 @@ namespace Hoghugh.Models
     internal class Admin : User
     {
         public List<Employee> EmployeeList = new List<Employee>();
-        public int UserName { get; set; }
-        public int PassWord { get; set; }
-        
+        public string UserName = "Admin";
+        public string PassWord = "Admin";
 
     }
 }

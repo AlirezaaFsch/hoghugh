@@ -13,54 +13,62 @@ namespace Hoghugh
         static void Main(string[] args)
         {
 
-        
-        
-            
-            
-                while (true) { 
-                MainMenu.Main_menu();
-                var choice = Convert.ToInt32( Console.ReadLine());                                                     
-                    
+            while (true)
+            {
+                LoginView.FirstMainMenu();
 
-                        if (choice.Equals(1))
+
+                while (true)
+                {
+                    MainMenu.Main_menu();
+                    var choice = Convert.ToInt32(Console.ReadLine());
+
+
+                    if (choice.Equals(1))
+                    {
+                        EmployeeModifyMenu.EmployeeModify_menu();
+                        var choice_2 = Convert.ToInt32(Console.ReadLine());
+                        if (choice_2.Equals(1))
                         {
-                            EmployeeModifyMenu.EmployeeModify_menu();
-                            var choice_2 = Convert.ToInt32(Console.ReadLine());
-                            if (choice_2.Equals(1))
-                            {
-                                AdminsServices.ListAll();
-                                //DataBaceServices.ListConvertorToFile();
-                            }
-                            else if (choice_2.Equals(2))
-                            {
-                                AdminsServices.NewEmployee();
-                            }
-                            else if (choice_2.Equals(3))
-                            {
-                                AdminsServices.UpdateEmployee();
-                            }
-                            else if (choice_2.Equals(4))
-                            {
-                                AdminsServices.DeleteEmployee();
-                            }
-                            else if (choice_2.Equals(5))
-                            {
-                                
-                            }
-                            
+                            AdminsServices.ListAll();
+                           // DataBaceServices.ListConvertorToFile();
                         }
-                        else if (choice.Equals(4)) 
+                        else if (choice_2.Equals(2))
                         {
-                            return;
+                            AdminsServices.NewEmployee();
+                            //DataBaceServices.ListConvertorToFile();
+                        }
+                        else if (choice_2.Equals(3))
+                        {
+                            //DataBaceServices.CsvToList();
+                            AdminsServices.UpdateEmployee();
+                            //DataBaceServices.ListConvertorToFile();
+
+                        }
+                        else if (choice_2.Equals(4))
+                        {
+                            AdminsServices.DeleteEmployee();
+                        }
+                        else if (choice_2.Equals(5))
+                        {
+
                         }
 
-
-                    
-                    
+                    }
+                    else if (choice.Equals(4))
+                    {
+                        LoginView.FirstMainMenu();
+                    }
                 }
+             }
+
+
+                    
+                    
+         }
                
                 
             
-        }
+        
     }
 }

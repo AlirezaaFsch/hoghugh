@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Hoghugh.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,15 +10,6 @@ namespace Hoghugh.View
     interface MainView
     {
         public void setViewModel(object obj);
-        public object getInput();
-        public object initView();
-        public object onOk();
-        public object onError();
-
-
-
-
-
     }
     class MainMenu
     {
@@ -26,8 +18,8 @@ namespace Hoghugh.View
 
             Console.WriteLine("\n.................Empolyee Managment System.................\n\n");
             Console.WriteLine("Welcome To Main Menu, Please Enter Your Choice\n");
-            Console.WriteLine("Press 1 to modify empolyees");           
-            Console.WriteLine("Press 4 to exit Program");
+            Console.WriteLine("Press 1 to Modify Empolyees");           
+            Console.WriteLine("Press 4 to Exit Program");
 
             Console.Write("\nEnter Your Choice : ");
             
@@ -42,7 +34,7 @@ namespace Hoghugh.View
             Console.WriteLine("1 Press");
             Console.Clear();
             Console.WriteLine("\n.................Empolyee Managment System.................\n\n");
-            Console.WriteLine("Welcome To Empolyee, Please Enter Your Choice\n");
+            Console.WriteLine("Welcome To Empolyee Managment System, Please Enter Your Choice\n");
             Console.WriteLine("Press 1 to list all employees");
             Console.WriteLine("Press 2 to add a new employee");
             Console.WriteLine("Press 3 to Update employee");
@@ -52,4 +44,45 @@ namespace Hoghugh.View
             Console.WriteLine("\nEnter Your Choice :");
         }
     }
+
+
+    class EmployeeServicesMenu
+    {
+        static public void EmployeeServices_FirstMenu() 
+        {
+            Console.WriteLine("\n ---------------- Employee -----------------\n\n");
+            Console.WriteLine("Press 1 To Services Menu");
+            Console.WriteLine("Press 2 To Exit To Main Menu");
+
+            Console.Write("\nEnter Your Choice :");
+            var choice = Convert.ToInt32(Console.ReadLine());
+            if (choice.Equals(1))
+            {
+                EmployeeServices_SecondMenu();
+            }
+            if (choice.Equals(2))
+            {
+                LoginView.FirstMainMenu();
+            }
+
+        }
+
+
+        static public void EmployeeServices_SecondMenu() 
+        {
+            Console.WriteLine("\n --------------- Employee Services Menu ----------------\n\n");
+            Console.WriteLine("Press 1 To Update Your Acount");
+            Console.WriteLine("Press 2 To Enter Your Hours Worked In Months");
+
+            Console.Write("\nEnter Your Choice :");
+            var choice = Convert.ToInt32(Console.ReadLine());
+            if (choice.Equals(1)) 
+            {
+                EmployeeServices.UpdateEmployeeAcount();
+            }
+
+        }
+    }
+
+
 }
