@@ -1,0 +1,30 @@
+2023-05-22 17:06:14.2771|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 17:06:14.3772|INFO|Hoghugh.View.LoginView|Employee Login Succesful
+2023-05-22 17:06:29.4358|INFO|Hoghugh.Services.EmployeeServices|Salary Calculated 
+2023-05-22 17:06:47.6587|INFO|Hoghugh.View.LoginView|Attemp Login As Admin
+2023-05-22 17:06:54.3375|INFO|Hoghugh.View.LoginView|Admin Login Succesful
+2023-05-22 17:06:57.1551|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 17:08:26.2727|INFO|Hoghugh.Services.AdminsServices|Employee Created {"IsEmployee":false, "Salary":0.0, "Age":28, "Name":"Mamad", "LastName":"Ghadim", "EmployeeIdNumber":"28", "TeamName":"StartUp", "BasicSalary":80.0, "HoursInMonth":0.0, "UserName":"GhadimZadeh", "PassWord":"Ghadim1234"} at 5/22/2023 5:08:26 PM
+2023-05-22 17:08:31.1365|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 17:18:48.5534|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 17:18:48.6489|ERROR|Hoghugh.View.LoginView|UserName or PassWord is not Correct
+2023-05-22 17:19:07.0315|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 17:19:07.0315|INFO|Hoghugh.View.LoginView|Employee Login Succesful
+2023-05-22 17:19:15.3857|INFO|Hoghugh.Services.EmployeeServices|Salary Calculated 
+2023-05-22 17:19:56.2754|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 17:19:56.3808|INFO|Hoghugh.View.LoginView|Employee Login Succesful
+2023-05-22 17:20:05.6894|INFO|Hoghugh.Services.EmployeeServices|Salary Calculated 
+2023-05-22 17:21:14.6854|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 17:21:14.7856|INFO|Hoghugh.View.LoginView|Employee Login Succesful
+2023-05-22 17:21:27.6972|INFO|Hoghugh.Services.EmployeeServices|Salary Calculated 
+2023-05-22 17:22:46.3152|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 17:22:46.4165|INFO|Hoghugh.View.LoginView|Employee Login Succesful
+2023-05-22 17:22:51.6569|INFO|Hoghugh.Services.EmployeeServices|Salary Calculated 
+2023-05-22 17:34:36.7976|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 17:34:36.9052|INFO|Hoghugh.View.LoginView|Employee Login Succesful
+2023-05-22 17:34:43.7838|INFO|Hoghugh.Services.EmployeeServices|Salary Calculated 
+2023-05-22 17:35:44.3661|INFO|Hoghugh.View.LoginView|Attemp Login As Admin
+2023-05-22 17:35:49.2068|INFO|Hoghugh.View.LoginView|Admin Login Succesful
+2023-05-22 17:35:50.6249|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 17:35:56.2866|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 17:36:08.3689|INFO|Hoghugh.Services.AdminsServices|Employee Deleted {@Employee} at {now}

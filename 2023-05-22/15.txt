@@ -1,0 +1,19 @@
+2023-05-22 15:02:40.0588|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 15:04:24.6545|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 15:05:16.7499|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 15:05:16.8507|INFO|Hoghugh.View.LoginView|Employee Login Succesful
+2023-05-22 15:09:30.5318|INFO|Hoghugh.View.LoginView|Attemp Login As Admin
+2023-05-22 15:09:35.3812|INFO|Hoghugh.View.LoginView|Admin Login Succesful
+2023-05-22 15:09:40.1673|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 15:09:50.8194|INFO|Hoghugh.Services.AdminsServices|Employee Deleted [] at 5/22/2023 3:09:50 PM
+2023-05-22 15:10:12.3658|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 15:10:19.1862|INFO|Hoghugh.Services.AdminsServices|Employee Deleted [] at 5/22/2023 3:10:19 PM
+2023-05-22 15:17:27.5083|INFO|Hoghugh.View.LoginView|Attemp Login As Admin
+2023-05-22 15:17:31.8442|INFO|Hoghugh.View.LoginView|Admin Login Succesful
+2023-05-22 15:17:34.2625|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 15:17:42.4286|INFO|Hoghugh.Services.AdminsServices|Employee Deleted {"IsEmployee":false, "Age":40, "Name":"Ehsan", "LastName":"komaEi", "EmployeeIdNumber":"1010", "TeamName":"StartUp", "BasicSalary":100.0, "HoursInMonth":0.0, "UserName":"Ehsank", "PassWord":"komaEi1"} at 5/22/2023 3:17:42 PM
+2023-05-22 15:21:13.5517|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 15:21:13.6558|INFO|Hoghugh.View.LoginView|Employee Login Succesful
+2023-05-22 15:25:31.3692|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 15:26:23.8486|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 15:26:23.9482|ERROR|Hoghugh.View.LoginView|UserName or PassWord is not Correct
