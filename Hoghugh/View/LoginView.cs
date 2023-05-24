@@ -99,7 +99,9 @@ namespace Hoghugh.View
             try
             {                
                 EmployeeList = DataBaseServices.CsvToList();
+
                 Employee employee = new Employee();
+
                 Console.WriteLine("-------------- Employee Login --------------");
 
                 Console.WriteLine("Enter 1 To Login");
