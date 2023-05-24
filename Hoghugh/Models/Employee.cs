@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hoghugh.Models
 {
-    class Employee : User
+    class Employee 
     {
         public Employee()
         {
@@ -26,6 +26,7 @@ namespace Hoghugh.Models
         }
 
         public bool IsEmployee { get; set; }
+        public double Salary { get; set; }
         public int Age { get; set; }
         public string Name { get; set; }
         public string LastName { get; set; }

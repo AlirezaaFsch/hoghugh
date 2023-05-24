@@ -1,0 +1,11 @@
+2023-05-22 14:00:39.1803|INFO|Hoghugh.Services.AdminsServices|Employee Created {"IsEmployee":false, "Age":21, "Name":"Kimia", "LastName":"Zendehdel", "EmployeeIdNumber":"100", "TeamName":"Angels", "BasicSalary":10000.0, "HoursInMonth":0.0, "UserName":"Kimiow", "PassWord":"18121380"} at 5/22/2023 2:00:39 PM
+2023-05-22 14:00:43.3873|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 14:01:42.2568|ERROR|Hoghugh.View.MainMenu|Input string was not in a correct format.
+2023-05-22 14:01:47.8598|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 14:20:09.4302|INFO|Hoghugh.View.LoginView|Admin Login Succesful
+2023-05-22 14:20:24.0121|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 14:56:48.6197|INFO|Hoghugh.View.LoginView|Admin Login Succesful
+2023-05-22 14:57:56.1794|INFO|Hoghugh.View.LoginView|Attemp Login As Admin
+2023-05-22 14:58:01.1984|INFO|Hoghugh.View.LoginView|Admin Login Succesful
+2023-05-22 14:58:04.2569|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 14:58:08.7677|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees

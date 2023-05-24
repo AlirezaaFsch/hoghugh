@@ -5,6 +5,8 @@ using System.Xml.Serialization;
 using Hoghugh.Models;
 using System.Security.Cryptography.X509Certificates;
 using Hoghugh.DataBase;
+using System.Collections.Generic;
+using NLog;
 
 namespace Hoghugh
 {
@@ -12,63 +14,10 @@ namespace Hoghugh
     {
         static void Main(string[] args)
         {
-
             while (true)
-            {
+            {                
                 LoginView.FirstMainMenu();
-
-
-                while (true)
-                {
-                    MainMenu.Main_menu();
-                    var choice = Convert.ToInt32(Console.ReadLine());
-
-
-                    if (choice.Equals(1))
-                    {
-                        EmployeeModifyMenu.EmployeeModify_menu();
-                        var choice_2 = Convert.ToInt32(Console.ReadLine());
-                        if (choice_2.Equals(1))
-                        {
-                            AdminsServices.ListAll();
-                           // DataBaceServices.ListConvertorToFile();
-                        }
-                        else if (choice_2.Equals(2))
-                        {
-                            AdminsServices.NewEmployee();
-                            //DataBaceServices.ListConvertorToFile();
-                        }
-                        else if (choice_2.Equals(3))
-                        {
-                            //DataBaceServices.CsvToList();
-                            AdminsServices.UpdateEmployee();
-                            //DataBaceServices.ListConvertorToFile();
-
-                        }
-                        else if (choice_2.Equals(4))
-                        {
-                            AdminsServices.DeleteEmployee();
-                        }
-                        else if (choice_2.Equals(5))
-                        {
-
-                        }
-
-                    }
-                    else if (choice.Equals(4))
-                    {
-                        LoginView.FirstMainMenu();
-                    }
-                }
-             }
-
-
-                    
-                    
-         }
-               
-                
-            
-        
+            }                                     
+         }        
     }
 }

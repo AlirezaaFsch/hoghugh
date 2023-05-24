@@ -1,0 +1,2023 @@
+2023-05-22 16:52:28.4834|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:28.6427|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:28.7131|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:28.7593|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:28.8029|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:28.8451|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:28.8912|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:28.9325|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:28.9760|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.0236|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.0654|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.1067|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.1455|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.1849|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.2228|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.2633|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.3051|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.3558|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.3981|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.4451|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.4910|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.5375|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.5807|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.6288|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.6739|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.7179|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.7672|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.8125|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.9002|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:29.9924|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:30.1995|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:30.3090|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:30.6989|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.0701|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.2292|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.2838|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.3283|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.3723|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.4121|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.4555|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.5031|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.5450|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.5904|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.6353|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.6795|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.7490|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.7966|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.8469|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.8962|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:44.9722|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.0150|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.0558|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.0930|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.1357|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.1821|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.2262|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.2711|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.3121|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.3594|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.4039|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.4546|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:52:45.4984|ERROR|Hoghugh.View.LoginView|Header with name 'Salary'[0] was not found.
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+Headers: 'IsEmployee', 'Age', 'Name', 'LastName', 'EmployeeIdNumber', 'TeamName', 'BasicSalary', 'HoursInMonth', 'UserName', 'PassWord'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord"]
+IParser state:
+   ByteCount: 0
+   CharCount: 99
+   Row: 1
+   RawRow: 1
+   Count: 10
+   RawRecord:
+IsEmployee,Age,Name,LastName,EmployeeIdNumber,TeamName,BasicSalary,HoursInMonth,UserName,PassWord
+
+
+2023-05-22 16:54:30.3970|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:30.8267|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:30.8616|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:30.8990|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:30.9381|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:30.9877|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:31.0252|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:31.0799|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:31.1160|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:31.1648|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:31.2148|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:31.2722|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:31.3446|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:54:31.3845|ERROR|Hoghugh.View.LoginView|The conversion cannot be performed.
+    Text: ''
+    MemberName: Salary
+    MemberType: System.Double
+    TypeConverter: 'CsvHelper.TypeConversion.DoubleConverter'
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: 10
+   HeaderRecord:
+["IsEmployee","Age","Name","LastName","EmployeeIdNumber","TeamName","BasicSalary","HoursInMonth","UserName","PassWord","Salary"]
+IParser state:
+   ByteCount: 0
+   CharCount: 164
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+FALSE,21,Alireza,fsch,1,St,35,0,Alirezafsch,Alireza1380,
+
+
+2023-05-22 16:55:52.7239|INFO|Hoghugh.View.LoginView|Attemp Login As Admin
+2023-05-22 16:55:57.6906|INFO|Hoghugh.View.LoginView|Admin Login Succesful
+2023-05-22 16:55:59.9244|INFO|Hoghugh.Services.AdminsServices|Requested The List Of All Employees
+2023-05-22 16:56:10.8785|ERROR|Hoghugh.View.LoginView|Input string was not in a correct format.
+2023-05-22 16:56:29.4752|INFO|Hoghugh.View.LoginView|Employee login Attemp
+2023-05-22 16:56:29.4752|INFO|Hoghugh.View.LoginView|Employee Login Succesful
+2023-05-22 16:56:47.1786|INFO|Hoghugh.Services.EmployeeServices|Salary Calculated 
